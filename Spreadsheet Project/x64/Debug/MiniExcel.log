@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UET BS-CS\SEMESTER 03\CS-261L Data Structures And Algorithms\Projects\Spreadsheet Project\MiniExcel.h(12,1): warning C4005: 'INT_MIN': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\limits.h(35,1): message : see previous definition of 'INT_MIN'
+  MiniExcel.vcxproj -> D:\UET BS-CS\SEMESTER 03\CS-261L Data Structures And Algorithms\Projects\Spreadsheet Project\x64\Debug\MiniExcel.exe
