@@ -84,4 +84,4 @@ If you would like to contribute to Mini Excel, please follow these steps:
 
 ## License
 
-This project is licensed under the [Specify the license name, e.g., MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details.
