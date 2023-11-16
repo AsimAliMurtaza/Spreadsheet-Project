@@ -12,7 +12,7 @@ Spreadsheet project in C++ for CS-261
 
 ## Introduction
 
-Welcome to Mini Excel, a simple spreadsheet application developed as a Data Structures and Algorithms mid-semester project. This project aims to provide a hands-on learning experience for understanding and implementing linked lists in a practical context.
+Welcome to Mini Excel, a simple spreadsheet application developed as a Data Structures and Algorithms project. This project aims to provide a hands-on learning experience for understanding and implementing linked lists in a practical context.
 
 ## Features
 
